@@ -1,2 +1,2 @@
-# development-setup
+# Development Setup
 Prepare development environment
