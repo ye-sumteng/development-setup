@@ -22,7 +22,7 @@ After download and install EasyBCD, do this:
 3. in the Type section, select **GRUB (Legacy)**
 4. in the Name section enter **Ubuntu 10.04.01**
 5. in the Drive section select the boot partition where the Ubuntu boot loader was installed earlier
-6. hen click the **Add Entry** button .
+6. then click the **Add Entry** button .
 
 ![The following is an example of an **EasyBDC** image](https://www.konyoha.com/wp-content/uploads/2017/08/cara-install-dual-boot-ubuntu-windows-18.jpg)
 
